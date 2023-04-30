@@ -1,0 +1,49 @@
+.conteiner__small-card {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: auto;
+    height: 15rem;
+
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.small-card__name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.small-card__name > h1 {
+    margin-left: 1.4rem;
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    
+}
+.small-card__description {
+    margin-top: 0.7rem;
+    margin-left: 0.9rem;
+    font-size: 0.6rem;
+}
+.small-card__description > p {
+    color: gray;
+}
+.small-card__picture  > img{
+    margin-top: 1rem;
+    width: 15rem;
+    min-width: 15rem;
+    height: 14.4rem;
+    min-height: 14.4rem;
+    margin-right: auto;
+    border-radius: 10%;
+}
+hr{
+    margin-left: 13rem;
+    border-radius: 20%;
+    height: 1.4px;
+    background-color:dimgrey;
+    color: dimgrey;
+}

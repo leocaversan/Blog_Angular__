@@ -1,0 +1,15 @@
+.conteiner_menu-title{
+    color: aliceblue;
+ }
+ .conteiner_menu-title > h1{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: 14rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+ }
+ .conteiner_menu-title > hr{
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+ }

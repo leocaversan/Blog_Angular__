@@ -1,0 +1,10 @@
+.conteiner__articles {
+    margin-top: 1.7rem;
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.articles_orthers{
+    margin-left: 1rem;
+}
