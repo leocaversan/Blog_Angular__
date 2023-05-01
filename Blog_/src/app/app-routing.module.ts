@@ -11,6 +11,9 @@ const routes: Routes = [
   {
     path:'content/:id',
     component:ContentComponent
+  },{
+    path:'**',
+    redirectTo:''
   }
 
 ];
